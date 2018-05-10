@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">120信息管理系统</string>
+    <string name="hint_login_ip">请输入IP</string>
+    <string name="login">登录</string>
+</resources>
